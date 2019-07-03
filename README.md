@@ -5,4 +5,4 @@
 * `sudo make install`
 * `sudo create_ap wlp2s0 wlp2s0 hotspotname hotspotpass`
 
-[Original](https://github.com/oblique/create_ap.git) gave error `ERROR: Your adapter can not transmit to channel 36, frequency band 5GHz.`
+[Original](https://github.com/oblique/create_ap.git) gave me error `ERROR: Your adapter can not transmit to channel 36, frequency band 5GHz.`
